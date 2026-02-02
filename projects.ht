@@ -36,7 +36,7 @@
                 </ul>
                 </div>
                 <div class="navbar-brand ms-auto">
-                        <img src="../resources/img/favicon.ico" alt="Light Bulb" width="30" height="24">
+                        <img src="submission/resources/img/favicon.ico" alt="Light Bulb" width="30" height="24">
                     </a>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                 
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 shadow-sm">
-                        <img src="../resources/img/img5.jpg" class="card-img-top" alt="Project 1 Screenshot" style="height: 220px; object-fit: cover;">
+                        <img src="submission/resources/img/img5.jpg" class="card-img-top" alt="Project 1 Screenshot" style="height: 220px; object-fit: cover;">
                         <div class="card-body">
                             <h5 class="card-title">Personal Website</h5>
                             <p class="card-text">
@@ -64,7 +64,7 @@
 
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 shadow-sm">
-                        <img src="../resources/img/img6.jpg" class="card-img-top" alt="Project 2 Screenshot" style="height: 220px; object-fit: cover;">
+                        <img src="submission/resources/img/img6.jpg" class="card-img-top" alt="Project 2 Screenshot" style="height: 220px; object-fit: cover;">
                         <div class="card-body">
                             <h5 class="card-title">Weather Dashboard</h5>
                             <p class="card-text">
@@ -76,7 +76,7 @@
 
                 <div class="col-md-4 mb-4">
                     <div class="card h-100 shadow-sm">
-                        <img src="../resources/img/img7.jpg" class="card-img-top" alt="Project 3 Screenshot" style="height: 220px; object-fit: cover;">
+                        <img src="submission/resources/img/img7.jpg" class="card-img-top" alt="Project 3 Screenshot" style="height: 220px; object-fit: cover;">
                         <div class="card-body">
                             <h5 class="card-title">Data Analysis Tool</h5>
                             <p class="card-text">
